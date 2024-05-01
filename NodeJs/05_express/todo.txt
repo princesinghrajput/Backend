@@ -1,0 +1,17 @@
+GET /users    ----->> List all users in  html list format -->DONE
+
+
+GET /api/users  ----->>> List all users in json format   --->DONE
+
+GET /api/users/1    >>> get users with id 1  >>>DONE
+
+GET /api/users/2   >>>get users with id 2
+
+
+POST  /api/users   >> CREATE USERS 
+
+
+PATCH /api/users/:id  >>Update the users with id
+
+
+DELETE  /api/users/:id    >>Delete the users with id
